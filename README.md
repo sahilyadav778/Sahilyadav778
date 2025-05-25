@@ -1,7 +1,7 @@
 
 # Hi, I'm Sahil Yadav! 👋
 
-**Data Science Enthusiast | MCA Student | AI & ML Developer**
+**Data Science Enthusiast | MCA Student | AI & ML Developer | Full Stack Developer**
 
 I have completed my Master's in Computer Applications (MCA) at Poornima University, Jaipur, specializing in **Artificial Intelligence and Data Science**. With hands-on experience as a **Data Science Intern at Netparam Technologies**, I have developed predictive models and worked extensively with data analysis, visualization, and machine learning.
 
