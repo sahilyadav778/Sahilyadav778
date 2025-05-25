@@ -3,7 +3,7 @@
 
 **Data Science Enthusiast | MCA Student | AI & ML Developer**
 
-I'm currently pursuing my Master's in Computer Applications (MCA) at Poornima University, Jaipur, specializing in **Artificial Intelligence and Data Science**. With hands-on experience as a **Data Science Intern at Netparam Technologies**, I have developed predictive models and worked extensively with data analysis, visualization, and machine learning.
+I have completed my Master's in Computer Applications (MCA) at Poornima University, Jaipur, specializing in **Artificial Intelligence and Data Science**. With hands-on experience as a **Data Science Intern at Netparam Technologies**, I have developed predictive models and worked extensively with data analysis, visualization, and machine learning.
 
 ---
 
@@ -19,10 +19,11 @@ I'm currently pursuing my Master's in Computer Applications (MCA) at Poornima Un
 
 ---
 
-### 🛠️ Skills
+### 🛠 Skills
 
-**Languages & Tools:**  
-`Python` | `C` | `Java` | `R` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow`
+*Languages & Tools:*  
+Python | C | Java | R | HTML | CSS | JavaScript  
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow
 
 **IDEs:**  
 VS Code | Jupyter | RStudio | Turbo C++ | Dev C++
@@ -31,7 +32,7 @@ VS Code | Jupyter | RStudio | Turbo C++ | Dev C++
 
 ### 🎓 Education
 
-- **MCA**, Poornima University, Jaipur *(2023–Present)*  
+- **MCA**, Poornima University, Jaipur *(2023–2025)*  
 - **BA**, Raj Rishi Bhartrihari Matsya University, Alwar *(2023)*
 
 ---
